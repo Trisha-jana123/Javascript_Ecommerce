@@ -61,6 +61,11 @@ ecommerce-website/
 
 📦 Built With
 HTML5
+
 CSS3
+
 Vanilla JavaScript (ES6)
+
+🙌 Acknowledgements
+Icons by Boxicons
 
